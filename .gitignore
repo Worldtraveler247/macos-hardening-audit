@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Audit output logs (may contain system info)
+*.log
+audit-results/
